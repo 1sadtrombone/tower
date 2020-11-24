@@ -18,7 +18,7 @@ pages = [
     ,"The man, eager to use his sword, cuts down the tapestry, revealing a winding stair leading up!"
     ,"The stair continues for some time until it opens up to a massive room, with wide windows showing a storm brewing off the coast. Thunder cracks, and a robed figure turns to face the man. Only one eye can be seen under the folds of his cloak.\n'I.. am the One-Eyed wizard! Who... are you..?'"
     ,"Before the man has a chance to draw his sword, the One-Eyed wizard strikes him down with a bolt of lightning from the coastal storm!"
-    ,"'What?' the One-Eyed wizard says.\nThen, he looks, and a dark miasma is drawn from within his cloak, and into the amulet!\n'Thank you, kind stranger.'"
+    ,"'What?' the One-Eyed wizard says.\nThen, he looks, and a dark miasma is drawn from within his cloak, and into the amulet!\n'Thank you, Deszmo. You wear a different form from when we last met...'"
     ]
 
 links = [
